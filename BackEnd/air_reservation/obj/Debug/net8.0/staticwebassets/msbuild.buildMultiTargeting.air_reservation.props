@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\air_reservation.props" />
+</Project>

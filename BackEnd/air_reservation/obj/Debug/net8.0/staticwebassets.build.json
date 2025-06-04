@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JLCxQWo5vgDNTHeFZjRZA89SYP7SfsKtzw8kMZD7eRI=",
+  "Source": "air_reservation",
+  "BasePath": "_content/air_reservation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

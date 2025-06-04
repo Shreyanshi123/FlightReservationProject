@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "air_reservation", "air_reservation.csproj", "{12F59549-5A7A-414D-A252-9C0CA1E99E71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F59549-5A7A-414D-A252-9C0CA1E99E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F59549-5A7A-414D-A252-9C0CA1E99E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F59549-5A7A-414D-A252-9C0CA1E99E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F59549-5A7A-414D-A252-9C0CA1E99E71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B40FC2C0-2C59-4AF9-8D24-43AE2F1970F4}
+	EndGlobalSection
+EndGlobal
